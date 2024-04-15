@@ -2,13 +2,13 @@
 
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
+- Active Directory, Splunk
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
@@ -23,10 +23,14 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+NetWork Architecture
+![Screenshot 2024-04-14 202511](https://github.com/xOmari/Home-Lab/assets/159092818/141a4d73-4a85-4ba9-9d51-0e2467050dcc)
+For this project ive Installed four Virtual Machines : Kali linux , Windows 2019 server for Active directory , Linux server for Splunk and Windows 10 as my target Machine.
+![Screenshot 2024-04-14 202511](https://github.com/xOmari/Home-Lab/assets/159092818/7e1649d7-5995-41f0-8e4f-ecce986cf47b)
 
-Example below.
 
-*Ref 1: Network Diagram*
+
+
+
+
