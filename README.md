@@ -34,8 +34,15 @@ For this project ive Installed four Virtual Machines : Kali linux , Windows 2019
 
 ![Screenshot 2024-04-15 092652](https://github.com/xOmari/Home-Lab/assets/159092818/ff5622a5-d766-4f4a-837c-28f0df9735d2)
 
+Next I set up a Static ipaddress for my splunk server using: Sudo nano /etc/netplan/00-installer-config.yaml
 
+![VirtualBox_splunk S_15_04_2024_10_46_28](https://github.com/xOmari/Home-Lab/assets/159092818/80b719eb-0e4b-486f-b402-32adf731fc6f)
 
+Next I download splunk From their official website along with virtualbox guest additions so i can access on the splunk server using a shared folder.
+
+Next we mount the file and begin installation
+
+![VirtualBox_splunk S_18_03_2024_18_34_55](https://github.com/xOmari/Home-Lab/assets/159092818/582a014e-7cc3-4aee-b941-231a769219ed)
 
 
 
