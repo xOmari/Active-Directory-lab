@@ -1,4 +1,4 @@
-# Home-Lab
+# Active Directory-Lab
 
 
 ## Objective
@@ -19,7 +19,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 [Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Atomic Red team
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
@@ -126,6 +126,11 @@ Add a exclusion file for atomic Red team
 ![IMG_0188](https://github.com/xOmari/Home-Lab/assets/159092818/0a6f1af0-9404-4397-8de4-cbe429474970)
 
 Atomic red team's attacks has IDs so we use whichever we want to test
-IF we test something and recieve to telemetry we know we have a security gap
+If we test something and recieve to telemetry we know we have a security gap
 
+![IMG_0189](https://github.com/xOmari/Active-Directory-lab/assets/159092818/7e56fa57-4fac-42b1-b949-b7438ccd5d45)
+
+In this test we see a Local user was created
+
+![IMG_0192](https://github.com/xOmari/Active-Directory-lab/assets/159092818/5d82413d-cf4a-4af2-80e1-6ae5b3e0e114)
 
