@@ -102,7 +102,7 @@ Editing Password list
 
 ![VirtualBox_Kali_linux2023_13_04_2024_09_15_59](https://github.com/xOmari/Home-Lab/assets/159092818/6e97fffd-145c-4bd6-bf16-10a0f635f414)
 
-We will using crowbar as our brute force tool
+We will be using crowbar as our brute force tool
 
 ![IMG_0175](https://github.com/xOmari/Home-Lab/assets/159092818/416f96ef-92fc-4a8e-92f3-0dfdba3f32cf)
 
